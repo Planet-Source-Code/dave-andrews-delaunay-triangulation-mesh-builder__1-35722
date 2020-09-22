@@ -1,0 +1,9 @@
+modDrafting = 51, 16, 787, 540, C
+modColorDialog = 110, 110, 779, 507, C
+modSplines = 137, 44, 734, 452, C
+modDeLaunay = 94, 41, 770, 528, C
+modTime = 44, 44, 619, 492, C
+clsDX3D = 110, 110, 729, 495, C
+frmFull3D = 21, 167, 640, 552, C, 132, 132, 751, 517, C
+frmDraw = 12, 16, 670, 502, C, 46, 77, 747, 537, C
+modShowList = 0, 0, 613, 405, C
